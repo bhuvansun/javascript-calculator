@@ -1,0 +1,13 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+#calculator {
+  width: 300px;
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
